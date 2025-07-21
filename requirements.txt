@@ -1,0 +1,9 @@
+setuptools>=65.5.1
+wheel>=0.40.0
+pandas
+scikit-learn
+tqdm
+requests
+python-dotenv
+joblib
+twilio>=8.0.0
