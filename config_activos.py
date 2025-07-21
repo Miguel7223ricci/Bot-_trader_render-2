@@ -9,19 +9,22 @@ CONFIG = {
         "Apple Inc": "AAPL",
         "Tesla Inc": "TSLA",
         "CoroWare Inc": "COWI",
+        "Microsoft Corp.": "MSFT",
+        "Alphabet Inc.": "GOOG",
+        "Amazon.com Inc.": "AMZN",
+        "Meta Platforms Inc.": "META",
+        "Intel Corp.": "INTC",
 
         # ETFs estadounidenses
         "SPDR S&P 500 ETF Trust": "SPY",
         "Direxion Semiconductor Bear 3X": "SOXS",
         "UltraPro Short QQQ": "SQQQ",
         "GraniteShares COIN 1.5x ETF": "CONL",
+        "Invesco QQQ Trust": "QQQ",
+        "iShares Russell 2000": "IWM",
+        "iShares Emerging Markets": "EEM",
+        "SPDR Dow Jones Industrial": "DIA",
 
-        # Commodities
-        "Gold Spot USD": "XAU/USD",
-        "Gold Spot Euro": "XAU/EUR",
-        "Gold Spot SGD": "XAU/SGD",
-        "Copper Pound USD": "XG/USD",
-        "Silver Spot AUD": "XAG/AUD",
-
+        
     }
 }
